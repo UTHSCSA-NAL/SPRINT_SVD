@@ -1,5 +1,5 @@
 # SPRINT_SVD
-This repository contains the analytic code for the main analyses presented in our paper, "Intensive versus Standard Blood Pressure Control and Overall Brain Small Vessel Disease Burden: A Post-Hoc Analysis of the SPRINT Randomized Clinical Trial," published in eClinicalMedicine.
+This repository contains the analytic code for the main analyses presented in our paper, "Intensive versus Standard Blood Pressure Control and Overall Brain Small Vessel Disease Burden: A Post-Hoc Analysis of the SPRINT Randomized Clinical Trial," published in _eClinicalMedicine_.
 
 Because participant-level SPRINT MRI data are not included in this repository, the scripts are intended to document the analytic workflow and support reproducibility for users with approved data access.
 
